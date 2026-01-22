@@ -4,7 +4,6 @@ tags:
   - thehumanbody
   - society
   - budding
-dg-publish: "True"
 cssclasses:
   - Cards
   - cards-col-3
